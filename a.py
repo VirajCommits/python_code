@@ -45,4 +45,4 @@ with open('MATH215_in-class_lecture4.3_annotated.pdf', 'rb') as file:
         print(page_text)
         # for i in page_text:
             # print(i)
-        break
+        
